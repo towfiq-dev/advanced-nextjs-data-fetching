@@ -13,7 +13,6 @@ const Product = ({product}) => {
       alt={name}/>
   </figure>
   <div className="card-body">
-    {/* <h1 className='text-3xl font-bold'>{name}</h1> */}
     <h2 className="card-title">{name}</h2>
     <p>
       {description}
