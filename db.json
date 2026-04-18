@@ -1,0 +1,136 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Quantum X1 Mechanical Keyboard",
+      "category": "Peripherals",
+      "price": 150.00,
+      "brand": "TechWave",
+      "stock": 45,
+      "rating": 4.8,
+      "image": "https://example.com/images/keyboard.jpg",
+      "description": "RGB backlit mechanical keyboard with blue switches for tactile feedback."
+    },
+    {
+      "id": "2",
+      "name": "Ultra-Wide 34-inch Monitor",
+      "category": "Computer",
+      "price": 599.00,
+      "brand": "DELL",
+      "stock": 12,
+      "rating": 4.7,
+      "image": "https://example.com/images/monitor.jpg",
+      "description": "4K UHD curved monitor with 144Hz refresh rate for immersive coding and gaming."
+    },
+    {
+      "id": "3",
+      "name": "Ergo-Lift Laptop Stand",
+      "category": "Accessories",
+      "price": 35.50,
+      "brand": "SturdyDesk",
+      "stock": 100,
+      "rating": 4.5,
+      "image": "https://example.com/images/stand.jpg",
+      "description": "Aluminum adjustable laptop stand to improve posture and cooling efficiency."
+    },
+    {
+      "id": "4",
+      "name": "Noise-Cancelling Wireless Headphones",
+      "category": "Audio",
+      "price": 240.00,
+      "brand": "SoundSync",
+      "stock": 25,
+      "rating": 4.9,
+      "image": "https://example.com/images/headphones.jpg",
+      "description": "Active noise cancellation with 40-hour battery life for deep focus sessions."
+    },
+    {
+      "id": "5",
+      "name": "Smart Home Hub Gen 3",
+      "category": "Smart Home",
+      "price": 85.00,
+      "brand": "ConnectIt",
+      "stock": 60,
+      "rating": 4.3,
+      "image": "https://example.com/images/hub.jpg",
+      "description": "Control your lights, locks, and thermostat from a single dashboard."
+    },
+    {
+      "id": "6",
+      "name": "Compact 20,000mAh Power Bank",
+      "category": "Accessories",
+      "price": 45.00,
+      "brand": "VoltCharge",
+      "stock": 80,
+      "rating": 4.6,
+      "image": "https://example.com/images/powerbank.jpg",
+      "description": "High-capacity power bank with PD fast charging support."
+    },
+    {
+      "id": "7",
+      "name": "Minimalist Leather Backpack",
+      "category": "Lifestyle",
+      "price": 110.00,
+      "brand": "UrbanCarry",
+      "stock": 15,
+      "rating": 4.7,
+      "image": "https://example.com/images/backpack.jpg",
+      "description": "Water-resistant vegan leather backpack with a dedicated 16-inch laptop sleeve."
+    },
+    {
+      "id": "8",
+      "name": "Precision Wireless Mouse",
+      "category": "Peripherals",
+      "price": 55.00,
+      "brand": "SwiftGlide",
+      "stock": 120,
+      "rating": 4.4,
+      "image": "https://example.com/images/mouse.jpg",
+      "description": "Ergonomic 6-button mouse with adjustable DPI and silent clicks."
+    },
+    {
+      "id": "9",
+      "name": "Dimmable LED Desk Lamp",
+      "category": "Smart Home",
+      "price": 29.99,
+      "brand": "Lumina",
+      "stock": 200,
+      "rating": 4.2,
+      "image": "https://example.com/images/lamp.jpg",
+      "description": "Touch-controlled lamp with 3 color modes and a built-in USB charging port."
+    },
+    {
+      "id": "10",
+      "name": "Pro-Stream 1080p Webcam",
+      "category": "Electronics",
+      "price": 79.00,
+      "brand": "ClearView",
+      "stock": 30,
+      "rating": 4.5,
+      "image": "https://example.com/images/webcam.jpg",
+      "description": "High-definition webcam with auto-focus and dual microphones for meeting clarity."
+    },
+    {
+      "id": "11",
+      "name": "Professional Espresso Machine",
+      "category": "Kitchen",
+      "price": 350.00,
+      "brand": "BrewMaster",
+      "stock": 8,
+      "rating": 4.8,
+      "image": "https://example.com/images/espresso.jpg",
+      "description": "Compact espresso maker with steam wand for barista-quality lattes at home."
+    },
+    {
+      "id": "12",
+      "name": "Smart Fitness Tracker",
+      "category": "Lifestyle",
+      "price": 49.99,
+      "brand": "FitCore",
+      "stock": 150,
+      "rating": 4.1,
+      "image": "https://example.com/images/tracker.jpg",
+      "description": "Track steps, heart rate, and sleep cycles with a 14-day battery life."
+    }
+  ]
+}
